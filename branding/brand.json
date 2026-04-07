@@ -1,0 +1,22 @@
+{
+  "app_name": "CalcFlow",
+  "app_name_slug": "calcflow",
+  "tagline": "Numbers, simplified. Calculate with clarity.",
+  "unique_accent": "#10B981",
+  "colour_palette": {
+    "background": "#0A0A0F",
+    "surface": "#18181B",
+    "primary": "#7C3AED",
+    "accent": "#10B981",
+    "textPrimary": "#FFFFFF",
+    "textSecondary": "#A1A1AA"
+  },
+  "brand_brief": "CalcFlow is a sleek, no-nonsense calculator built for users who value precision and elegance in everyday tools. The brand exudes quiet confidence \u2014 minimal, dark, and sharp \u2014 appealing to developers, students, and productivity-focused professionals. It transforms a mundane utility into a premium micro-experience.",
+  "logo_prompt": "A minimal dark-mode logo for an app called CalcFlow. Design a geometric symbol combining a sleek infinity-like flow curve integrated with a subtle grid or bracket symbol, rendered in a smooth gradient from violet #7C3AED to emerald green #10B981. The icon sits centered on a near-black #0A0A0F circular or rounded-square background. Style is ultra-clean, modern SaaS, no gradients on the background, sharp vector edges, minimal details, professional and premium feel. The wordmark CalcFlow appears below in a bold geometric sans-serif font in white.",
+  "icon_style": "Minimal geometric flow-curve icon with a purple-to-emerald gradient on a dark rounded-square background, clean vector style",
+  "font_pairing": {
+    "heading": "Space Grotesk",
+    "body": "Inter"
+  },
+  "logo_generated": false
+}
