@@ -1,0 +1,3 @@
+Logo prompt: A minimal dark-mode logo for an app called CalcFlow. Design a geometric symbol combining a sleek infinity-like flow curve integrated with a subtle grid or bracket symbol, rendered in a smooth gradient from violet #7C3AED to emerald green #10B981. The icon sits centered on a near-black #0A0A0F circular or rounded-square background. Style is ultra-clean, modern SaaS, no gradients on the background, sharp vector edges, minimal details, professional and premium feel. The wordmark CalcFlow appears below in a bold geometric sans-serif font in white.
+
+Replace this file with the generated logo image.
